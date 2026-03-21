@@ -1,0 +1,10 @@
+# For numeric computations
+numpy
+geomdl
+scipy
+
+# For visualization
+matplotlib
+
+# For testing
+pytest

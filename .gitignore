@@ -1,0 +1,9 @@
+# environment
+.vscode/
+
+# python
+__pycache__/
+py313/
+
+# output
+output/
