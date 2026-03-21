@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./py313/scripts/pytest py_igesio/entities/tests/test_interfaces.py -v)"
+    ]
+  }
+}
