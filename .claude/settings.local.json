@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./py313/scripts/pytest py_igesio/entities/tests/test_interfaces.py -v)",
+      "Bash(./py313/scripts/pytest py_igesio/entities/curves/tests/test_alg_extremal_polygon.py -v)",
+      "Bash(./py313/scripts/pytest py_igesio/entities/curves/tests/test_alg_polygonal_approximation.py -v)",
+      "Bash(./py313/scripts/pytest py_igesio/entities/curves/tests/test_integration_extremal_polygon.py py_igesio/entities/curves/tests/test_integration_algorithms.py -v)"
+    ]
+  }
+}
